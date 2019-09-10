@@ -1,1 +1,3 @@
-Este é o Curso ao Vivo de Git e GitHub da Platzi
+# Este é o meu primeiro repositório git
+
+Neste repositório coloquei o meu portfólio de desenvolvedor
