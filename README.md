@@ -1,18 +1,10 @@
-# Este é o meu primeiro repositório git
+# Felipe Brigagão de Almeida
 
-Neste repositório coloquei o meu portfólio de desenvolvedor.
+## Sobre
 
-Agora eu quero falar mais sobre mim, e eu quero falar é que
-Eu tinha esquecido de falar o que eu queria falar
+Olá, meu nome é Felipe Brigagão, estudante de Ciência da Computação na Universidade Católica de Brasília, tenho 24 anos e gosto muito da área de tecnológia.
 
-# Existe um arquivo com a lista de linguagens que programo
+## Cursos do Platzi que finalizei
 
-As minhas experimentações
-
-Resolvi um bug que tinha nessa linha
-
-Quero testar se estou conseguindo enviar ao GitHub
-
-Quero testar os pull requests do GitHub
-
-Estou adorando utilizar os pull requests do GitHub, assim o meu fluxo de trabalho fica mais profissional, e pessoas podem assim revisar o que estou mudando.
+- Programação Básica
+- Git e GitHub
