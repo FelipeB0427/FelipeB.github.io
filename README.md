@@ -3,14 +3,11 @@
 ## Sobre
 
 Olá, meu nome é **Felipe Brigagão** tenho **24 anos**, moro em Brasília, gosto muito de programação, atualmente estou estudando e procurando a primeira oportunidade de estágio na área.
-<<<<<<< HEAD
-=======
 
 ## Redes Sociais
 
 - [LinkedIn](www.linkedin.com/in/felipe-brigagão-de-almeida)
 - [GitHub Pages](https://felipeb0427.github.io/FelipeB.github.io/)
->>>>>>> Adicionei links para minhas redes sociais
 
 ## Cursos
 
