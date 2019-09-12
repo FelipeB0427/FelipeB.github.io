@@ -1,14 +1,26 @@
-# Este é o meu primeiro repositório git
+# Felipe Brigagão de Almeida
 
-Neste repositório coloquei o meu portfólio de desenvolvedor.
+## Sobre
 
-Agora eu quero falar mais sobre mim, e eu quero falar é que
-Eu tinha esquecido de falar o que eu queria falar
+Olá, meu nome é **Felipe Brigagão** tenho **24 anos** e gosto muito da área de tecnológia.
 
-# Existe um arquivo com a lista de linguagens que programo
+## Cursos
 
-As minhas experimentações
+- Bacharelado em Ciência da Computação (Cursando) - **Universidade Católica de Brasília**
+- Técnico em Informática - **Escola Técnica de Ceilândia**
+- Programação Básica - **Platzi**
+- Git e GitHub - **Platzi**
 
-Resolvi um bug que tinha nessa linha
+## Linguagens de programação que gosto
 
-Quero testar se estou conseguindo enviar ao GitHub
+### JavaScript
+
+Fiz alguns cursos sobre a linguagem e achei muito interessante.
+
+### PHP
+
+Estudei PHP na Escolha Técnica de Ceilândia onde aprendi muito sobre PHP Estruturado e PHP Orientado a Objetos.
+
+### Python
+
+Tenho estudado Python em cursos livres disponiveis no Youtube, por ser uma linguagem que vem crescendo o uso à cada ano que passa.
