@@ -2,7 +2,7 @@
 
 ## Sobre
 
-Olá, meu nome é **Felipe Brigagão** tenho **24 anos** e gosto muito da área de tecnológia.
+Olá, meu nome é **Felipe Brigagão** tenho **24 anos**, moro em Brasília, gosto muito de programação, atualmente estou estudando e procurando a primeira oportunidade de estágio na área.
 
 ## Cursos
 
