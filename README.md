@@ -2,7 +2,11 @@
 
 ## Sobre
 
-Olá, meu nome é **Felipe Brigagão** tenho **24 anos**, moro em Brasília, gosto muito de programação, atualmente estou estudando e procurando a primeira oportunidade de estágio na área.
+Olá, meu nome é **Felipe Brigagão de Almeida** tenho **24 anos**, moro em Brasília, gosto muito de programação, atualmente estou estudando e procurando a primeira oportunidade de estágio na área.
+
+## Idiomas
+
+- Inglês - **Avançado**
 
 ## Redes Sociais
 
